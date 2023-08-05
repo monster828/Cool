@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "coding-bootcamp",
+  "version": "1.0.0",
+  "description": "TEst",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alden",
+  "license": "ISC"
+}
